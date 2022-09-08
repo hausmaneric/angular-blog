@@ -1,0 +1,30 @@
+.container__small-card{
+  width: 700px;
+}
+
+.container__small-card hr{
+  margin:10px 0;
+}
+
+.container__small-card-content{
+  display: inline-block;
+}
+
+.container__small-card a{
+  text-decoration: none;
+}
+.small-card__pic{
+  float: left;
+}
+.small-card__pic > img{
+  width: 200px;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.small-card__title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: right;
+}
